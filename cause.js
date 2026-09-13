@@ -11,7 +11,7 @@
         gif: "gif2.gif"
     },
     { 
-        text: "Wishing you growth, success, happiness and everything your heart desires. ✨ ", 
+        text: "Wishing you growth, success, happiness, and everything your heart desires. ✨ ", 
         emoji: "💕",
         gif: "gif3.gif"
     },
